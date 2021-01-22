@@ -1,0 +1,1 @@
+# Swedish alternative to the default keymap for xd75, nothing fancy
